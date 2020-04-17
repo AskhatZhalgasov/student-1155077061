@@ -27,3 +27,4 @@ I met github first when I took CSCI3150 and used it to submit my assignments. Ba
 |           Javascript  |What are you doing    | 
 
 ## Screenshot :+1:
+(milestone2.PNG)
