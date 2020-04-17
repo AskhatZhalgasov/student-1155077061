@@ -1,13 +1,13 @@
-#project milestone2!
-##ABOUT ME
+# project milestone2!
+## ABOUT ME
 This is **PAN Ziyi** speaking. I'm a final year CS student. I'm from Shaw. ~~Today is really a sunny day.~~
 I met github first when I took CSCI3150 and used it to submit my assignments. Back then, I only knew the ***very basic*** things about github.I'm glad I can learn more now!
-##TO DO LIST
+## TO DO LIST
 -Eat
 -Sleep
 -Exercise (Never actually)
 
-##Wishes
+## Wishes
 - [] Switch
 - [] Animal crossing
 - [x] Super Mario Odyssey
@@ -15,7 +15,7 @@ I met github first when I took CSCI3150 and used it to submit my assignments. Ba
 - [x] ARMS
 - [] The legend of Zelda: Breath of the wind
 
-##Totally personal
+## Totally personal
 | Programming languages |    My feelings       |
 |-----------------------|----------------------| 
 |           C           |My first language     |
