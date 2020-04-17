@@ -8,12 +8,12 @@ I met github first when I took CSCI3150 and used it to submit my assignments. Ba
 -Exercise (Never actually)
 
 ## Wishes
-- [] Switch
-- [] Animal crossing
+- [ ] Switch
+- [ ] Animal crossing
 - [x] Super Mario Odyssey
 - [x] Just dance
 - [x] ARMS
-- [] The legend of Zelda: Breath of the wind
+- [ ] The legend of Zelda: Breath of the wind
 
 ## Totally personal
 | Programming languages |    My feelings       |
@@ -26,4 +26,4 @@ I met github first when I took CSCI3150 and used it to submit my assignments. Ba
 |           C++         |How old are you       |
 |           Javascript  |What are you doing    | 
 
-
+## Screenshot :+1:
